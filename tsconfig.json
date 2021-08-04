@@ -3,7 +3,8 @@
     "baseUrl": "src",
     "rootDir": "src",
     "paths": {
-      "@/*": ["*"]
+      "@/*": ["*"],
+      "@data/*": ["data/*"]
     }
   }
 }
